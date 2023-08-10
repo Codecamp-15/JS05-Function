@@ -1,0 +1,1 @@
+// undefined เพราะfunction ไม่มีreturn function จะreturn undefined จะกลายเป็น console.log(undefined)

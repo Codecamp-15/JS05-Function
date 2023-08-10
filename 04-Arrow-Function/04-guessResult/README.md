@@ -4,3 +4,4 @@
 const logName = (name) => console.log(name);
 const logName = name => console.log(name);
 ```
+//ไม่เหมือนกัน เพราะว่า การใส่() ทำให้เป้นฟังก์ชั่นที่แสดงค่าข้างใน ส่วนบรรทัดที่5 จะขึ้นเป็นชื่อ name

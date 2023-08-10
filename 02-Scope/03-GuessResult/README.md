@@ -6,5 +6,5 @@ function sayHi(name) {
   console.log(name); // *
 }
 
-sayHi("Jim");
+sayHi("Jim"); //ไม่แสดงค่า
 ```

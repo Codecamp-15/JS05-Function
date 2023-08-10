@@ -5,7 +5,7 @@ let message = "Welcome to Thailand";
 
 function logMessage(message) {
   message = "Hello everybody";
-  console.log(message); // *
+  console.log(message); // * Hello everybody
 }
 
 logMessage(message);

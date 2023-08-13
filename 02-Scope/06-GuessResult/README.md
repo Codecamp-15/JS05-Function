@@ -18,6 +18,6 @@ function sendTo(to, from = 'CC') {
     console.log(`From ${from} to ${to}`);
 }
 
-sendTo('Max'); // ***
-sendTo('Ben', 'Jay'); // ****
+sendTo('Max'); // *** From CC to Max
+sendTo('Ben', 'Jay'); // **** From Jay to Ben
 ```

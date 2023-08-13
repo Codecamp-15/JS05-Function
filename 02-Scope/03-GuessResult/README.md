@@ -3,7 +3,7 @@
 ```js
 function sayHi(name) {
   let name = "Guest";
-  console.log(name); // *
+  console.log(name); // * "Guest
 }
 
 sayHi("Jim");

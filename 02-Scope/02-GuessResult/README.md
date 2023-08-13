@@ -8,5 +8,5 @@ if (true) {
     alert(`${phrase}, ${user}`);
   }
 }
-sayHi(); // *
+sayHi(); // *Hello John
 ```

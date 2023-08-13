@@ -9,5 +9,5 @@ function makeWorker() {
 }
 let name = 'John';
 let work = makeWorker();
-work(); // *
+work(); // *Pete
 ```

@@ -2,10 +2,10 @@
 
 ```js
 const showModal = alert;
-showModal("Execute modal"); // *
+showModal("Execute modal"); // *Execute modal
 ```
 
 ```js
 const showModal = alert();
-showModal("Execute modal"); // **
+showModal("Execute modal"); // **undefined
 ```

@@ -5,21 +5,21 @@ let message = "Welcome to Thailand";
 
 function logMessage(message) {
   message = "Hello everybody";
-  console.log(message); // *
+  console.log(message); // *Hello everybody
 }
 
 logMessage(message);
-console.log(message); // **
+console.log(message); // ** "Welcome to Thailand"
 ```
 
 ```js
 let name = "John";
 
 function sayHi(input) {
-  console.log(name); // ***
+  console.log(name); // ***John
   name = input;
 }
 
 sayHi();
-console.log(name); // ****
+console.log(name); // ****undefined
 ```

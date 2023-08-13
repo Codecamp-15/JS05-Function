@@ -6,5 +6,5 @@ function sayHi() {
   alert('Hi, ' + name);
 }
 name = 'Pete';
-sayHi(); // *
+sayHi(); // * Pete 
 ```

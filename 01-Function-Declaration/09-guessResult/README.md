@@ -6,5 +6,5 @@ function getLongText() {
   ("Lorem Ipsum is simply dummy text of the printing and typesetting industry.");
 }
 
-console.log(getLongText()); // *
+console.log(getLongText()); // *undefined
 ```

@@ -1,6 +1,7 @@
-// function sayHelloWorld(){
-//     alert('Hello');
-// }
+function sayHelloWorld(){
+    alert('Hello World');
+}
+sayHelloWorld();
 
 // // call : FN-NAME()
 // sayHelloWorld();

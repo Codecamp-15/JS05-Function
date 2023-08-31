@@ -1,5 +1,6 @@
-function sayHelloUser(a){
-alert(`(${a} was excommunicado).`);
+function sayHelloUser(username) {
+    alert(`Hello ${username}`);
 }
 
-// sayHelloUser('a');
+const userInput = prompt("Please enter your username:");
+sayHelloUser(userInput);
